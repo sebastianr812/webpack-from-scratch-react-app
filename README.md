@@ -1,0 +1,1 @@
+This is a basic react app that includes a webpack config file and babel rc file - This can also be done with CRA but CRA includes A LOT more things (dont know if for the better or worse yet). This is just a slim version of a reat app not using CRA.
